@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Aida",
-	"description": "a description"
+	"description": "a description",
+	"keywords": ["learn", "proiect", "freecodecamp" ]
 }
