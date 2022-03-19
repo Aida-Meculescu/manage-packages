@@ -14,5 +14,6 @@
 	"author": "Aida",
 	"description": "a description",
 	"keywords": ["learn", "proiect", "freecodecamp" ],
-	"license": "ISC"
+	"license": "ISC",
+	"version": "1.0.0"
 }
